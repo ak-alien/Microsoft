@@ -1,0 +1,13 @@
+Copyright © 2025 Alien Dev
+
+This software is proprietary and confidential.
+
+You are not permitted to:
+
+- Copy, modify, distribute, or sublicense this software
+- Reverse engineer, decompile, or disassemble any part of it
+- Use the software for malicious, unethical, or illegal purposes
+
+This software is provided "as is", without warranty of any kind.
+
+All rights reserved.
